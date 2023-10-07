@@ -1,9 +1,6 @@
 # HW3 CS6220
 # Installation
 - Install conda from: https://www.anaconda.com/ <br>
-```
-nvcc -V
-```
 - Extract all files into a folder <br>
 - In the root of the folder run the following line using conda command line<br>
 ```
