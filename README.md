@@ -11,7 +11,7 @@ conda activate HW3
 ```
 - Run the Colab_filtering.ipynb <br>
 - Run all cells and the models should run <br>
-- Note that all data cleaning is done on the original dataset which I is not on these files <br>
+- Note that all data cleaning is done on the original dataset which is not in these files and need to be downloaded <br>
 - All results will be pasted into a .csv file after model completion
 # Computer Specs
 - CPU: AMD Ryzen 5800X 8-Core (only used CPU)
